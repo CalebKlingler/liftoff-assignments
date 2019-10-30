@@ -7,8 +7,14 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+[Wireframe one](./wireframe%201.PNG)  
+[Wireframe two](./wireframe%202.PNG)   
+[Wireframe three](./wireframe%203.PNG)  
+[Wireframe four](./wireframe%204.PNG)  
+[Wireframe five](./wireframe%205.PNG)  
+[Wireframe six](./wireframe%206.PNG)
 
-https://app.moqups.com/BxpPkJ8N2n/edit/page/ad64222d5
+
 ### Project Tracker
 
 https://trello.com/b/UH2uHzir/liftoff
